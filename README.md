@@ -5,7 +5,7 @@ Features
 Responsive design: The website is designed to be fully responsive and optimized for various screen sizes, including desktops, tablets, and mobile devices.
 Easy customization: You can easily customize the content, colors, and styles to match your personal preferences and branding.
 Portfolio showcase: Showcase your projects and work experience in the portfolio section with images and descriptions.
-Contact form: Allow visitors to contact you directly through the built-in contact form.
+Contact form: Allow visitors to contact you directly through the built-in contact form
 Usage
 Clone the repository to your local machine:
 bash
