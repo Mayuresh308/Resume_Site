@@ -154,8 +154,8 @@ section:nth-child(2n + 1){
 
 #about{
     /* background-color: red; */
-    background-image: url(coffee.jpg);
-    /* filter: opacity(98%); */
+    /* background-image: url(coffee.jpg); */
+    background-image: url(https://www.sharonstanley.net/wp-content/uploads/2018/11/tyler-nix-601536-unsplash-1024x683.jpg);
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -193,8 +193,6 @@ section:nth-child(2n + 1){
     line-height: 28px;
     font-size: 1.1rem;
     /* margin: auto; */
-    
-    
 }
 
 
@@ -527,6 +525,7 @@ body {
 #education{
     /* background-color: red; */
     background-image: url(study.jpg);
+    background-image: url(https://images.pexels.com/photos/1925536/pexels-photo-1925536.jpeg?auto=compress&cs=tinysrgb&w=600);
     filter: opacity(75%);
     background-position: center;
     background-size: cover;
@@ -605,7 +604,8 @@ body {
 
 #portfolio{
     /* background-color: red; */
-    background-image: url(6.jpg);
+    /* background-image: url(6.jpg); */
+    background-image: url(https://images.pexels.com/photos/733856/pexels-photo-733856.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -662,7 +662,8 @@ body {
     /* background-color: #0abcf9; */
     /* background-image: linear-gradient(50deg, #21cb68 0%, #e033c0 74%); */
 
-    background-image: url(pink.avif);
+    /* background-image: url(pink.avif); */
+    background-image: url(https://images.unsplash.com/photo-1711348258953-85ca571c07bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDMzfDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D);
     filter: opacity(75%);
     background-repeat: no-repeat;
     background-size: cover; 
